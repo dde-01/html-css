@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 300;
+}
+main {
+  width: 406px;
+  min-height: 561px;
+  padding: 50px 53px 49px;
+}
+.rate {
+  width: 300px;
+  min-height: 462px;
+  border: 1px solid #e8e8e8;
+  text-align: center;
+}
+h1 {
+  margin: 61px 90px 35px 88px;
+}
+.price,
+.value {
+  display: inline-block;
+  color: #5ba2a9;
+}
+.price {
+  font-size: 48px;
+  font-weight: 500;
+  margin: 0 13px 49px 15px;
+}
+.value {
+  font-size: 18px;
+  font-weight: 300;
+}
+ul {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 46px 47px 53px;
+  font-size: 14px;
+}
+li {
+  margin-bottom: 15px;
+}
+button {
+  width: 200px;
+  height: 54px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
